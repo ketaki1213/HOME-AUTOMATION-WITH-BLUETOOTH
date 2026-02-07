@@ -49,7 +49,9 @@ The task of Home Automation with Bluetooth using Tinkercad involves creating a c
  - Home automation provides independence to individuals with mobility challenges.
 - They can control appliances without physically reaching switches.
 
-*OUTPUT
+*OUTPUT*
+
+<img width="1812" height="772" alt="Image" src="https://github.com/user-attachments/assets/deca4c1c-1545-4311-97fe-8e277c3a8ec2" />
 
 
 
